@@ -1,0 +1,18 @@
+---
+object: set
+id: a1aed70a-561a-4766-97ce-ad56bef407c0
+code: pjud
+name: Judgment Promos
+uri: https://api.scryfall.com/sets/a1aed70a-561a-4766-97ce-ad56bef407c0
+scryfall_uri: https://scryfall.com/sets/pjud
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apjud&unique=prints
+released_at: '2002-05-27'
+set_type: promo
+card_count: 1
+parent_set_code: jud
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: ody
+block: Odyssey
+icon_svg_uri: https://svgs.scryfall.io/sets/jud.svg?1694404800
